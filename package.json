@@ -1,0 +1,14 @@
+{
+  "name": "codeceptjs-bdd-before-bug",
+  "version": "1.0.0",
+  "description": "Sample repo for BDD Before() bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^2.6.10"
+  }
+}
